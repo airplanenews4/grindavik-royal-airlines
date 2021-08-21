@@ -1,37 +1,192 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html>
+    <header>
+        <title>Home || Grindavik Royal Official</title>
+        <link rel="shortcut icon" type="png" href="<a href="https://i.ibb.co/dkKvtpf/Screenshot-2021-07-23-10-26-29-AM.png"/>
+        <!--These link rel things get code from other sites which allow you to put these here to get images. dont worry im allowed to put these, these are from other html help websites and stuff-->
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+        <!--makes ur site work for mobile but the initial scale part not working so idk if it will work cause I havent completed yet long story I will get the fix for you later-->
+        <meta name="viewport" content="width=device-width, initial-scale=">
+    </header>
+    <body img="">
+   <head>
+      <style>
+         body {
+            background-image: url("https://wallpaperaccess.com/full/254367.png");
+            background-repeat: no-repeat;
+            background-size: 1550px 960px;
+            background-attachment: fixed;
+            background-position: center;
+         }
+      </style>
+   </head>
 
-You can use the [editor on GitHub](https://github.com/airplanenews4/grindavik-royal-airlines/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+   <head>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+   <body>
+   </body>
+</html>
+<style>
+.myButton {
+	box-shadow:inset 0px 1px 3px 0px #91b8b3;
+	background:linear-gradient(to bottom, #768d87 5%, #6c7c7c 100%);
+	background-color:#768d87;
+	border:1px solid #566963;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Trebuchet MS;
+	font-size:15px;
+	font-weight:bold;
+	padding:8px 23px;
+	text-decoration:none;
+	text-shadow:0px -1px 49px #2b665e;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #6c7c7c 5%, #768d87 100%);
+	background-color:#6c7c7c;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
 
-### Markdown
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 70px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+</style>
 
-1. Numbered
-2. List
+        <center>
+        <br>
+        <h1>Grindavik Royal Official</h1>
+        <!--Alright, see the a href thing, in the hashtag remove it and put ur youtube channel there, so when u click the youtube image it will go to ur channel-->
+        <a href="https://www.youtube.com/channel/UCfzKMTMEEv27vqdDSMuelXA">
+        <img src="https://i.ibb.co/dkKvtpf/Screenshot-2021-07-23-10-26-29-AM.png" width="350" alt="My YouTube Channel">
+        </a>
+        <br>
+        <h4>Subscribe here! Scroll down for more channel updates!</h4>
+        <h6>Help, design & code by PlaneFS</h6>
+        </center>
+        <style>
 
-**Bold** and _Italic_ and `Code` text
+</style>
 
-[Link](url) and ![Image](src)
-```
+</center>
+    </body>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+  box-sizing: border-box;
+}
 
-### Jekyll Themes
+/* Add a gray background color with some padding */
+body {
+  font-family: Arial;
+  padding: 20px;
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/airplanenews4/grindavik-royal-airlines/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+}
 
-### Support or Contact
+/* Header/Blog Title */
+.header {
+  padding: 30px;
+  font-size: 40px;
+  text-align: center;
+}
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+/* Create two unequal columns that floats next to each other */
+/* Left column */
+.leftcolumn {   
+  float: left;
+  width: 75%;
+}
+
+/* Right column */
+.rightcolumn {
+  float: left;
+  width: 25%;
+  padding-left: 20px;
+}
+
+/* Fake image */
+.fakeimg {
+  background-color: #aaa;
+  width: 100%;
+  padding: 20px;
+}
+
+/* Add a card effect for articles */
+.card {
+
+   padding: 20px;
+   margin-top: 20px;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Footer */
+.footer {
+  padding: 20px;
+  text-align: center;
+  background: #ddd;
+  margin-top: 20px;
+}
+
+/* Responsive layout - when the screen is less than 800px wide, make the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 800px) {
+  .leftcolumn, .rightcolumn {   
+    width: 100%;
+    padding: 0;
+  }
+}
+</style>
+</head>
+<body>
+
+<div class="header">
+  <h2>--Updates--</h2>
+</div>
+
+<div class="row">
+  <div class="center">
+    <div class="card">
+      <h2>New Plane In Da Fleet!</h2>
+      <h5>Airline Updates, Aug 4th,2021</h5>
+      <p>Join Discord Server here: <a href="https://discord.gg/VfYyEktRzG">https://discord.gg/VfYyEktRzG</a> </p>
+      <p>        We have a new plane coming in our fleet at August 10th, 2021. This will be used by our very skilled pilots and the plane is a beauty. It is the Concorde! It flies at supersonic speeds from destination to destination!</p>
+    </div>
+  </div>
+
+<div class="row">
+  <div class="center">
+    <div class="card">
+      <h2>First Post!!!</h2>
+      <h5>Server Upates, Aug 1st, 2021</h5>
+      <p>Join Discord Server here: <a href="https://discord.gg/VfYyEktRzG">https://discord.gg/VfYyEktRzG</a> </p>
+      <p>        This Discord Server is mainly made by WolfLegend or Mikewithcoffee (Roblox: <a href="https://web.roblox.com/users/1626593960/profile">https://bit.ly/3yhYIoY</a>). So credits to him for the server and also making me admin! Please join if you do haev Roblox. This specific Airline is called Grindavik Royal. The Airline Logo is made by me and you should check it out. We are hiring pilots and we would be really happy to fly with you!</p>
+    </div>
+  </div>
+
+<div class="footer">
+  <h5>Join here today! <a href="https://discord.gg/VfYyEktRzG">https://discord.gg/VfYyEktRzG</a></h5>
+</div>
+
+</body>
+
+</html>
